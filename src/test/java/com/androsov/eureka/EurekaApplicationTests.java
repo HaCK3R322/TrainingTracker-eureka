@@ -1,4 +1,4 @@
-package com.ivanandrosovv.eureka;
+package com.androsov.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
